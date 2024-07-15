@@ -1,14 +1,14 @@
 # Kings County Housing Sales Analysis
 This repository contains a Tableau project that analyzes housing sales data in Kings County. The analysis aims to provide insights into various aspects of the housing market, including trends, pricing, and geographic distribution.
-Contents
+# Contents
 Tableau Workbook (.twb file): The main Tableau file (KingsCountyHousingSales.twb) containing all the visualizations, dashboards, and data connections.
 Data Source: The Tableau workbook is connected to an Excel file (HouseData.xlsx) which contains the raw housing sales data. This data includes variables such as sale price, location, number of bedrooms, and other relevant features.
-Features
+# Features
 Interactive Dashboards: Explore interactive dashboards that provide insights into the housing market in Kings County.
 Trend Analysis: Visualizations showing trends over time for housing prices and sales volume.
 Geographic Analysis: Maps and geographic distribution of sales, highlighting key areas with high activity.
 Price Distribution: Analysis of price distribution across different property types and neighborhoods.
-How to Use
+# How to Use
 Download Tableau Desktop: Ensure you have Tableau Desktop installed on your machine.
 Clone Repository: Clone this repository to your local machine.
 bash
